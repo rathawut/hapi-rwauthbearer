@@ -1,0 +1,25 @@
+{
+  "name": "hapi-rwauthbearer",
+  "version": "1.0.0",
+  "description": "a Hapi module for basic authentication with \"Bearer authKey\" by Rathawut",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rathawut-l/hapi-rwauthbearer.git"
+  },
+  "keywords": [
+    "hapi",
+    "authentication",
+    "bearer",
+    "auth"
+  ],
+  "author": "Rathawut Lertsuksakda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rathawut-l/hapi-rwauthbearer/issues"
+  },
+  "homepage": "https://github.com/Rathawut-l/hapi-rwauthbearer#readme"
+}
